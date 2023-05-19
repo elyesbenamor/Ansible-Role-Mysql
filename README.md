@@ -1,11 +1,10 @@
 MYSQL_DB
 =========
 
-Installing Mysql db and add a database for a user
 Requirements
 ------------
 
-Python must be installed
+- 🐍 Python must be installed
 
 
 
